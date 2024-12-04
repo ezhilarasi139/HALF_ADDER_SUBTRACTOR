@@ -82,4 +82,4 @@ Developed by: RegisterNumber:*/
 
 
 **Result:**
-half adder and half subtractor circuit and verify its truth table in Quartus using Verilog programming is verified
+half adder and half subtractor circuit and its truth table in Quartus using Verilog programming is verified
